@@ -1,0 +1,7 @@
+pyttsx3
+pypiwin32 ; platform_system == "Windows"
+
+
+pyttsx3 → The main text-to-speech engine
+
+pypiwin32 → Needed for Windows voice support (optional but helpful)
